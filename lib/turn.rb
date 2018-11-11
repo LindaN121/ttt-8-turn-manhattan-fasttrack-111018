@@ -4,5 +4,5 @@ end
 
 def valid_move
   puts "What is your move?"
-  
+  move = gets
 end
