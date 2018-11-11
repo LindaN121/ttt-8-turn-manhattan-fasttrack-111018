@@ -12,4 +12,3 @@ def valid_move
   else
     puts "You have to pick a number between 1 & 9, try again."
   end
-end
