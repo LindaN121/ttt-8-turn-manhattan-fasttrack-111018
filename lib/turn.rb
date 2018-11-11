@@ -5,7 +5,7 @@ end
 def valid_move
   loop do
   puts "Select a position in the array by typing a singular number from 1-9"
-  ans = gets.chomp.to_i
+gets.chomp.to_i
   if ans > 0 && ans <= array.length 
     puts "The element at position #{ans} is " + array[ans-1]
     break
