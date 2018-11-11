@@ -3,5 +3,6 @@ def display_board (board)
 end
 
 def valid_move
-  puts ""
+  puts "What is your move?"
+  
 end
